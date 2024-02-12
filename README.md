@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on finishing up TripleTen BI analyst bootcamp
-- 🌱 I’m currently learning many new data analyst tools such as SQL, tableau, and power BI among others
+- 🔭 I’m currently searching for a job in BI analytics
+- 🌱 I’ve learned many new data analyst tools such as SQL, tableau, and power BI among others
 - 👯 I’m looking to collaborate on learning new skills in data!
 - 🤔 I’m looking for help with understanding concepts in tech
 - 💬 Ask me about my two dogs; Whiskey and Cola!
