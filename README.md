@@ -7,6 +7,7 @@
 - 📫 How to reach me: tinaloo921@yahoo.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been in the mortgage industry for over 20+ years and am switching career paths into tech for something new, exciting and more stable
+- ✨ Skills: SQL, Tableau, Power BI, Excel/Google Sheets, Data Visualization, Cohort Analysis, Communication, Emotional Intelligence, Project Management
 <!--
 **tloo921/tloo921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
