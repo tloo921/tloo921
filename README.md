@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently searching for a job in BI analytics
+- 🔭 I’m currently searching for a job in BI/Data analytics
 - 🌱 I’ve learned many new data analyst tools such as SQL, tableau, and power BI among others
 - 👯 I’m looking to collaborate on learning new skills in data!
 - 🤔 I’m looking for help with understanding concepts in tech
