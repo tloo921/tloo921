@@ -13,6 +13,7 @@
 - 📫 How to reach me **tinaloo921@yahoo.com**
 
 - 📄 Know about my experiences **<a href="https://docs.google.com/document/d/1wKyICekSJ0CEORKHpb2Zm6byrQ_Nrq1xIDF7ETut5pQ/edit"> My Resume </a>**
+
 - ⚡ Fun fact: I've been in the mortgage industry for over 20+ years and am switching career paths into tech for something new, exciting and more stable
 
 
