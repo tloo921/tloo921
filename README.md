@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tina!</h1>
 <h3 align="center">A self motivated BI/Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif">
+<img align="right" alt="Coding" width="450" src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif">
 
 - 🔭 I’m currently searching for **a job in BI/Data Analytics**
 
